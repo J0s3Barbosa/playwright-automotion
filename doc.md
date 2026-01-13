@@ -5,6 +5,15 @@ codegen
 copia codigo gerado
 criar um arquivo com o codigo gerado
 
+----
+
+pedir a IA para criar o venv
+atualizar pip
+instalar playwright, crommium, pytest-playwright
+dotenv para chaves
+
+
+---
 
 Playwright
 
